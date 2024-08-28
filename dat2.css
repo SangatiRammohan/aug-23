@@ -1,0 +1,46 @@
+.drdo{
+    background-image: url(./drdo.jpeg);
+}
+div h1{
+    text-decoration: underline;
+    color:aqua
+}
+p{
+    text-shadow: 3px 5px 5px green;
+    color:red;
+}
+h2{
+    background-color: brown;
+}
+main{
+    width: 100vw;
+    background: linear-gradient(to bottom left,green,white,yellow,violet,red,orange,blue);
+} 
+.one{
+    width:300px;
+    height:350px;
+    background-color: rgb(144, 192, 192);
+    outline: 2px solid blue;
+}
+#two{
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    outline: auto;
+}
+.three{
+ background-color: yellowgreen;
+ width: 300px;
+ height: 300px;
+ outline: 2px solid purple;
+}
+img{
+    width:100%;
+    object-fit:cover;
+}
+.three > h3{
+    color: white;
+}
+#two h3{
+    color: red;
+}
